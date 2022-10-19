@@ -24,6 +24,13 @@ import sylaires.ctf.util.MessageUtil;
 
 public class HiddenCommand implements CommandExecutor {
 
+	/*
+	Temporarily unimplemented feature for a perk that is not currently accessible in the
+	perk menu... Created as a command as I wanted to experiment with creating a hidden
+	command that could be invoked as an ability. Likely a more effective way to implement
+	would be simply to create a class with appropriate methods.
+	 */
+
 	@Override
 	public boolean onCommand(CommandSender sender, Command cmd, String s, String[] args) {
 		if(sender instanceof Player) {
@@ -40,7 +47,6 @@ public class HiddenCommand implements CommandExecutor {
 								teleporting.playSound(teleporting.getLocation(), Sound.ENDERMAN_TELEPORT, 1.5f, 1);
 								
 								for(Player p : Bukkit.getOnlinePlayers()) {
-
 									p.playSound(reinforced.getLocation(), Sound.AMBIENCE_THUNDER, 1.3f, 1);
 								}
 								
