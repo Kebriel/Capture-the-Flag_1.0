@@ -1,0 +1,19 @@
+name: Capture the Flag
+version: 0.1a
+main: sylaires.ctf.CTFMain
+commands:
+   stats:
+     description: Shows stats :D
+   map: 
+     description: A tool that allows admins to create and destroy maps
+   vote:
+     description: Allows players to vote for a map
+   game:
+     description: An admin command :)
+   hiddencom:
+     description: A command that should never be run manually -- it will break a lot of stuff!
+   shout:
+     description: A command that lets you talk to the whole lobby in game
+     aliases: [s, sh]
+   cosmetic:
+     aliases: [cos, c, vanity, van, cosmetics]

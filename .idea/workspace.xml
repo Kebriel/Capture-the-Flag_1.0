@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bbd8d02-5b0b-4b4e-822c-bcb385ce96aa" name="Changes" comment="Updates.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/Autosave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/CTFMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/GameTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/LobbyTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/MapManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/PlayerProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ProfileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityAlchemist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityAntidote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityBastion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityBerserk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityBraced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityCleanStrike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityExpandedQuiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityFarshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityFirebrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityFleetFooted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityGladiator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityIronskin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityJuggernaut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityKevlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityLeech.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityLifeblood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityMassacre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityMending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityPanic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityParry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityPointBlank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/AbilityXP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/IAbility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/ItemBandage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/ItemBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/ItemFishingRod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/ItemGapple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/ItemKBStick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/ItemPearl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/ItemSnowballs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/PerkHaste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/PerkReinforce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/PerkRoyalty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/ability/PerkUntrackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/command/CosmeticCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/command/GameCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/command/HiddenCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/command/MapCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/command/ShoutCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/command/StatsCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/command/VoteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/cosmetic/AuraCrown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/cosmetic/AuraDemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/cosmetic/AuraEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/cosmetic/AuraFlaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/cosmetic/AuraVoid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/cosmetic/AuraWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/cosmetic/CosmeticRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/cosmetic/CosmeticType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/cosmetic/ICosmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/AbilityGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/ArrowTrailGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/AuraGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/ConfirmationGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/CosmeticGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonAbility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonClearCosmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonCosmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonLocked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonNextPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonPrevPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonTrackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonUnlockedSlot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUIButtonUpcoming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/GUISlot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/ItemGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/KillEffectGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/KillMessageGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/NPCSpawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/OverviewGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/PerkGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/PurchaseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/RenderHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/ScoreboardSidebar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/SlotType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/display/TrackerGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/game/AbilityEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/game/AlchemistTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/game/CompassTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/game/Flag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/game/FlagManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/game/FlagState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/game/GlobalLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/game/KillHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/game/MapVoting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/game/TeamHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/AbilityProcDamage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/BlockPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/Bow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/Consume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/FlagListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/GenericInteract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/InvClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/Misc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/NpcClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/PlayerDeath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/Projectile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/QueueMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/Quit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/listener/Teleport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/util/ActionBarUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/util/Hologram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/util/HologramNMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/util/ItemBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/util/MainDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/util/MenuBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/util/MessageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/util/ParticleUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/util/ScoreboardBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sylaires/ctf/util/TitleUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GMa3WPGWSWUyYV5jJlkCIwep6o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/keleb/IdeaProjects/CTF/Capture the Flag/src/main/java/sylaires/ctf",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\keleb\IdeaProjects\CTF\Capture the Flag\src\main\java\sylaires\ctf" />
+      <recent name="C:\Users\keleb\IdeaProjects\CTF\Capture the Flag\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\keleb\IdeaProjects\CTF\Capture the Flag\src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bbd8d02-5b0b-4b4e-822c-bcb385ce96aa" name="Changes" comment="" />
+      <created>1666200707881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666200707881</updated>
+      <workItem from="1666200709557" duration="8845000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updates." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates." />
+  </component>
+</project>
