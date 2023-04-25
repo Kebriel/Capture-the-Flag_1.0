@@ -6,7 +6,7 @@ If so, please note the following:
 problems such as the use of static methods where constructors and/or getters would technically be preferable.
 - Game has been throughly bugtested and played by around 10+ different people, and every phase of it, every ability and perk, and all elements of progression,
 function without error.
-- Plugin was designed to work with a local MongoDB database, but the relevant methods and fields could easily be adapted for any other
+- Plugin was designed to work with a local MariaDB database, but the relevant methods and fields could easily be adapted for any other
 SQL databae with a simple replacement of query syntax.
 - There are of course some aspects of the game yet unimplimented (such as various types of cosmetics), as it was never released to any public audience
 and so content updates were never reached.
